@@ -1,4 +1,4 @@
-# Ttrend application
+# Tweet Trend application
 
 This is a small applicaiton which contains main and test folders.  
 Main contains application code.  
